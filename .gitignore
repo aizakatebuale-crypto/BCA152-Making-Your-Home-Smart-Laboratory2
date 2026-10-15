@@ -1,0 +1,5 @@
+.pio/
+build/
+.vscode/
+sdkconfig.old
+*.log
